@@ -1,7 +1,156 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 7
+}]]></component>
   <component name="ProjectId" id="37uuoF1qv9Fv1YAISdcXDUKDPJr" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ14442.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1600.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ1463.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ9095.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ15683.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17837.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Volumes/WD_BLACK SN850X 2TB/hwanginsung_ex/Documents/GitHub/BaaaaaaaaaaarkingDog_Algorithm/Coding-Test/src/main/java/com/fiddich/Main.java",
+    "project.structure.last.edited": "Project",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.BOJ18809">
+    <configuration name="BOJ14442" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.bfs.BOJ14442" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.bfs.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ1463" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.dp.BOJ1463" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ17822" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ17822" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ18809" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.backtracking.BOJ18809" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.backtracking.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.dp.BOJ9095" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.dp.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.BOJ18809" />
+        <item itemvalue="Application.BOJ17822" />
+        <item itemvalue="Application.BOJ9095" />
+        <item itemvalue="Application.BOJ1463" />
+        <item itemvalue="Application.BOJ14442" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="" />
+      <created>1767765449954</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1767765449954</updated>
+      <workItem from="1767765451402" duration="37510000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
 </project>
