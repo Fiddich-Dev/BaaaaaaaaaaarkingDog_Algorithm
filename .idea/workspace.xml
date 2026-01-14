@@ -5,11 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ17825.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ20061.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/resources/asd.yml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/recursion/BOJ2448.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/recursion/BOJ2448.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ17825.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ17825.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -54,6 +55,7 @@
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17825.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17837.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20061.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -72,7 +74,7 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BOJ17825">
+  <component name="RunManager" selected="Application.BOJ20061">
     <configuration name="BOJ17822" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ17822" />
       <module name="Coding-Test.main" />
@@ -112,6 +114,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ20061" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ20061" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="BOJ2448" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fiddich.recursion.BOJ2448" />
       <module name="Coding-Test.main" />
@@ -125,26 +140,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ9095" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.dp.BOJ9095" />
-      <module name="Coding-Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fiddich.dp.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ20061" />
         <item itemvalue="Application.BOJ17825" />
         <item itemvalue="Application.BOJ2448" />
         <item itemvalue="Application.BOJ18809" />
         <item itemvalue="Application.BOJ17822" />
-        <item itemvalue="Application.BOJ9095" />
       </list>
     </recent_temporary>
   </component>
@@ -165,7 +167,7 @@
       <updated>1767765449954</updated>
       <workItem from="1767765451402" duration="37510000" />
       <workItem from="1767956561490" duration="19070000" />
-      <workItem from="1768221589597" duration="11435000" />
+      <workItem from="1768221589597" duration="31088000" />
     </task>
     <servers />
   </component>

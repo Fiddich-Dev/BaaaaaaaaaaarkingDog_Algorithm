@@ -123,3 +123,4 @@ public class BOJ17825 {
         map[31].add(24);
     }
 }
+
