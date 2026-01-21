@@ -6,6 +6,11 @@
   <component name="ChangeListManager">
     <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="">
       <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ19236.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ19237.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ19238.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ20056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ11652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ1431.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,49 +44,55 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ14442.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ1600.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ1463.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ9095.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ11403.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ11724.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ1260.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ2660.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.recursion.BOJ2448.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ15683.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ17825.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ17837.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ19236.main()].executor&quot;: &quot;Run&quot;,
-    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ20061.main()].executor&quot;: &quot;Run&quot;,
-    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;onboarding.tips.debug.path&quot;: &quot;/Volumes/WD_BLACK SN850X 2TB/hwanginsung_ex/Documents/GitHub/BaaaaaaaaaaarkingDog_Algorithm/Coding-Test/src/main/java/com/fiddich/Main.java&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ14442.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1600.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ1463.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ9095.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.graph.BOJ11403.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.graph.BOJ11724.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.graph.BOJ1260.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.graph.BOJ2660.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.recursion.BOJ2448.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ15683.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17825.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17837.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19236.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19237.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19238.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20056.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20061.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ11652.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ1431.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.Sort.main()].executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "onboarding.tips.debug.path": "/Volumes/WD_BLACK SN850X 2TB/hwanginsung_ex/Documents/GitHub/BaaaaaaaaaaarkingDog_Algorithm/Coding-Test/src/main/java/com/fiddich/Main.java",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
-  <component name="RunManager" selected="Application.BOJ19236">
-    <configuration name="BOJ11403" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.graph.BOJ11403" />
+}]]></component>
+  <component name="RunManager" selected="Application.BOJ11652">
+    <configuration name="BOJ11652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.sort.BOJ11652" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.graph.*" />
+          <option name="PATTERN" value="com.fiddich.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -89,12 +100,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ11724" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.graph.BOJ11724" />
+    <configuration name="BOJ1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.sort.BOJ1431" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.graph.*" />
+          <option name="PATTERN" value="com.fiddich.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -102,21 +113,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1260" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.graph.BOJ1260" />
-      <module name="Coding-Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fiddich.graph.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ19236" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ19236" />
+    <configuration name="BOJ19238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ19238" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
@@ -128,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ2660" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.graph.BOJ2660" />
+    <configuration name="BOJ20056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ20056" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.graph.*" />
+          <option name="PATTERN" value="com.fiddich.simulation.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.sort.Sort" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.sort.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -143,11 +154,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ19236" />
-        <item itemvalue="Application.BOJ2660" />
-        <item itemvalue="Application.BOJ11403" />
-        <item itemvalue="Application.BOJ1260" />
-        <item itemvalue="Application.BOJ11724" />
+        <item itemvalue="Application.BOJ11652" />
+        <item itemvalue="Application.BOJ1431" />
+        <item itemvalue="Application.Sort" />
+        <item itemvalue="Application.BOJ20056" />
+        <item itemvalue="Application.BOJ19238" />
       </list>
     </recent_temporary>
   </component>
@@ -169,7 +180,7 @@
       <workItem from="1767765451402" duration="37510000" />
       <workItem from="1767956561490" duration="19070000" />
       <workItem from="1768221589597" duration="61848000" />
-      <workItem from="1768810321054" duration="2756000" />
+      <workItem from="1768810321054" duration="29168000" />
     </task>
     <servers />
   </component>
