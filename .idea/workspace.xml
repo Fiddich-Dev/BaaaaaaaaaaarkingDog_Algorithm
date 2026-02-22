@@ -5,13 +5,116 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ19236.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ19237.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ19238.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ20056.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/bfs/BOJ1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/bfs/BOJ1697.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/bfs/BOJ1926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/bfs/BOJ2178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/bfs/BOJ4179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/bfs/BOJ7576.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/binarysearch/BOJ2467.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ1149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ11659.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ11726.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ2579.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/greedy/BOJ1026.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/greedy/BOJ11047.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/greedy/BOJ11399.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/greedy/BOJ1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/greedy/BOJ2217.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ10814.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ10825.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ11652.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ11656.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ1181.java" afterDir="false" />
       <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ1431.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ2910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ5648.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/sort/BOJ7795.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test1/BOJ1012.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test1/BOJ12865.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test1/BOJ15686.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test1/BOJ1931.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test1/BOJ2309.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test10/BOJ1072.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test10/BOJ15926.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test10/BOJ17143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test10/BOJ2910.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test10/BOJ4811.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test11/BOJ1062.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test11/BOJ14391.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test11/BOJ14863.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test11/BOJ17822.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test11/BOJ3474.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test12/BOJ12869.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test12/BOJ1513.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test12/BOJ17144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test12/BOJ2293.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test12/BOJ9935.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test13/BOJ10709.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test13/BOJ1202.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test13/BOJ14620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test13/BOJ17837.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test13/BOJ2343.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test14/BOJ1094.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test14/BOJ1325.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test14/BOJ1561.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test14/BOJ15685.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test14/BOJ17071.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test15/BOJ14497.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test15/BOJ15662.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test15/BOJ1912.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test15/BOJ2776.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test15/BOJ3197.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test2/BOJ1629.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test2/BOJ17070.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test2/BOJ2178.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test2/BOJ2583.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test2/BOJ2792.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test3/BOJ1103.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test3/BOJ19942.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test3/BOJ2109.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test3/BOJ2468.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test3/BOJ2589.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test4/BOJ10808.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test4/BOJ10988.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test4/BOJ14888.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test4/BOJ1940.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test4/BOJ4179.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test5/BOJ1159.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test5/BOJ11655.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test5/BOJ2559.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test5/BOJ2979.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test5/BOJ9996.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test6/BOJ1213.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test6/BOJ1620.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test6/BOJ3986.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test6/BOJ4375.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test6/BOJ9375.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test7/BOJ14405.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test7/BOJ17825.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test7/BOJ1911.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test7/BOJ2670.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test7/BOJ3015.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test8/BOJ14469.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test8/BOJ1509.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test8/BOJ16234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test8/BOJ2294.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test8/BOJ3687.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test9/BOJ14867.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test9/BOJ1535.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test9/BOJ17406.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test9/BOJ2565.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test9/BOJ9934.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/one/BOJ10836.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/one/BOJ13334.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/one/BOJ17266.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/one/BOJ17404.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/one/BOJ1946.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ1463.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ1463.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ9095.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dp/BOJ9095.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ15683.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ15683.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,15 +149,31 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Gradle.Coding-Test [:com.fiddich.Test.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1012.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.bfs.BOJ14442.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1600.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1697.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1926.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ2178.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ4179.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ7576.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ1149.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ11659.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ11726.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.dp.BOJ1463.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.dp.BOJ2579.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.dp.BOJ9095.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.graph.BOJ11403.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.graph.BOJ11724.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.graph.BOJ1260.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.graph.BOJ2660.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ1026.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ11047.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ11399.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ1931.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ2217.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.recursion.BOJ2448.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ15683.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor": "Run",
@@ -65,9 +184,95 @@
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19238.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20056.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20061.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ10814.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ10825.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.sort.BOJ11652.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ11656.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ1181.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.sort.BOJ1431.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ2910.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ5648.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.sort.BOJ7795.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.sort.Sort.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.BOJ1014.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ1012.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ12865.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ15686.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ1931.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ2309.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ1072.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ15926.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ17143.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ2910.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ4811.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ1062.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ14391.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ14863.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ17822.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ3474.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ12869.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ1513.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ17144.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ2293.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ9935.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ10709.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ1202.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ14620.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ17837.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ2343.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1094.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1325.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1561.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ15685.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ17071.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ14497.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ15662.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ1912.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ2776.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ3197.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ1103.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ19942.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2109.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2468.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2589.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ10808.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ10988.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ14888.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ1940.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ4179.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ1159.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ11655.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ2559.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ2979.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ9996.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ1213.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ1620.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ3986.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ4375.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ9375.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ14405.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ17825.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ1911.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ3015.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ14469.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ1509.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ16234.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ2294.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ3687.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ1535.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ17406.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ2565.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ9934.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ1629.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ17070.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2178.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2583.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2792.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ10836.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ13334.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ17266.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ17404.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ1946.main()].executor": "Run",
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
@@ -86,13 +291,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BOJ11652">
-    <configuration name="BOJ11652" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.sort.BOJ11652" />
+  <component name="RunManager" selected="Application.BOJ15662">
+    <configuration name="BOJ14497" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test15.BOJ14497" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.sort.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -100,12 +305,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1431" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.sort.BOJ1431" />
+    <configuration name="BOJ15662" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test15.BOJ15662" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.sort.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -113,12 +318,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ19238" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ19238" />
+    <configuration name="BOJ1912" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test15.BOJ1912" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.simulation.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -126,12 +331,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ20056" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.simulation.BOJ20056" />
+    <configuration name="BOJ2776" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test15.BOJ2776" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.simulation.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -139,12 +344,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Sort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.sort.Sort" />
+    <configuration name="BOJ3197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test15.BOJ3197" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.sort.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test15.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -154,11 +359,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ11652" />
-        <item itemvalue="Application.BOJ1431" />
-        <item itemvalue="Application.Sort" />
-        <item itemvalue="Application.BOJ20056" />
-        <item itemvalue="Application.BOJ19238" />
+        <item itemvalue="Application.BOJ15662" />
+        <item itemvalue="Application.BOJ3197" />
+        <item itemvalue="Application.BOJ1912" />
+        <item itemvalue="Application.BOJ2776" />
+        <item itemvalue="Application.BOJ14497" />
       </list>
     </recent_temporary>
   </component>
@@ -180,7 +385,16 @@
       <workItem from="1767765451402" duration="37510000" />
       <workItem from="1767956561490" duration="19070000" />
       <workItem from="1768221589597" duration="61848000" />
-      <workItem from="1768810321054" duration="29168000" />
+      <workItem from="1768810321054" duration="31982000" />
+      <workItem from="1768984274683" duration="49538000" />
+      <workItem from="1769696854509" duration="59530000" />
+      <workItem from="1770359642122" duration="8527000" />
+      <workItem from="1770443927500" duration="8385000" />
+      <workItem from="1770528931027" duration="720000" />
+      <workItem from="1770631248968" duration="133609000" />
+      <workItem from="1771333982646" duration="34551000" />
+      <workItem from="1771500575698" duration="21090000" />
+      <workItem from="1771598772842" duration="13605000" />
     </task>
     <servers />
   </component>
