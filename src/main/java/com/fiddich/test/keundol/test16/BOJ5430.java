@@ -8,54 +8,69 @@ public class BOJ5430 {
         Scanner sc = new Scanner(System.in);
         int t = sc.nextInt();
         while(t-- != 0) {
-            String s = sc.next();
-            int n = sc.nextInt();
+            String command = sc.next();
 
-            String ss = sc.next();
-            ss = ss.substring(1, ss.length() - 1);
-            String[] temp = ss.split(",");
+            int n = sc.nextInt();
+            String s = sc.next();
+            s = s.substring(1, s.length() - 1);
+            String[] temp = s.split(",");
             int[] a = new int[n];
             for(int i= 0; i < n; i++) {
                 a[i] = Integer.parseInt(temp[i]);
             }
 
-            solve(a, s);
+            solve(a, command);
         }
     }
 
-    static void solve(int[] a, String s) {
+    static void solve(int[] a, String command) {
         boolean isReverse = false;
         int l = 0;
         int r = a.length - 1;
-        for(char c : s.toCharArray()) {
+
+        for(char c : command.toCharArray()) {
             if(c == 'R') {
                 isReverse = !isReverse;
+                continue;
             }
-            if(c == 'D') {
-                if(isReverse) {
-                    r--;
-                }
-                else if(!isReverse) {
-                    l++;
-                }
 
+            if(c == 'D') {
                 if(l > r) {
                     System.out.println("error");
                     return;
+                }
+
+                if(isReverse) {
+                    r--;
+                }
+                else {
+                    l++;
                 }
             }
         }
 
         StringBuilder sb = new StringBuilder();
         sb.append("[");
-        for(int i = l; i <= r; i++) {
-            if(i == r) {
-                sb.append(a[i]);
-                continue;
+        if(!isReverse) {
+            for(int i = l; i <= r; i++) {
+                if(i == r) {
+                    sb.append(a[i]);
+                    continue;
+                }
+                sb.append(a[i]).append(",");
             }
-            sb.append(a[i]).append(",");
+        }
+        else {
+            for(int i = r; i >= l; i--) {
+                if(i == l) {
+                    sb.append(a[i]);
+                    continue;
+                }
+                sb.append(a[i]).append(",");
+            }
         }
         sb.append("]");
         System.out.println(sb);
     }
+
 }
