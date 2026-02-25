@@ -5,19 +5,16 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/Cast.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test17/BOJ11053.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test17/BOJ1480.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test17/BOJ15684.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test17/BOJ1644.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test17/BOJ2870.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test18/BOJ13913.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test18/BOJ14627.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test18/BOJ16235.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test18/BOJ1700.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test18/BOJ4949.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test19/BOJ1068.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test19/BOJ1285.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test19/BOJ14889.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test19/BOJ17136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test19/BOJ7795.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ13244.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ1987.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ2632.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ5557.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/Test.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -68,19 +65,28 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.BOJ1068.executor": "Run",
     "Application.BOJ11053.executor": "Run",
+    "Application.BOJ1285.executor": "Run",
+    "Application.BOJ13244.executor": "Run",
     "Application.BOJ13913.executor": "Run",
     "Application.BOJ1450.executor": "Run",
     "Application.BOJ14627.executor": "Run",
     "Application.BOJ1480.executor": "Run",
+    "Application.BOJ14889.executor": "Run",
     "Application.BOJ15662.executor": "Run",
     "Application.BOJ15684.executor": "Run",
     "Application.BOJ1644.executor": "Run",
     "Application.BOJ1700.executor": "Run",
+    "Application.BOJ17136.executor": "Run",
     "Application.BOJ17298.executor": "Run",
+    "Application.BOJ1987.executor": "Run",
+    "Application.BOJ2632.executor": "Run",
     "Application.BOJ2870.executor": "Run",
     "Application.BOJ4949.executor": "Run",
     "Application.BOJ5430.executor": "Run",
+    "Application.BOJ5557.executor": "Run",
+    "Application.BOJ7795.executor": "Run",
     "Application.Cast.executor": "Run",
     "Application.Test.executor": "Run",
     "Gradle.BaaaaaaaaaaarkingDog_Algorithm [clean].executor": "Run",
@@ -230,13 +236,13 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BOJ1480">
-    <configuration name="BOJ13913" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test18.BOJ13913" />
+  <component name="RunManager" selected="Application.BOJ5557">
+    <configuration name="BOJ1068" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test19.BOJ1068" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test18.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test19.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -244,25 +250,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ14627" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test18.BOJ14627" />
+    <configuration name="BOJ13244" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test20.BOJ13244" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test18.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1480" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test17.BOJ1480" />
-      <module name="Coding-Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test17.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -284,12 +277,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1700" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test18.BOJ1700" />
+    <configuration name="BOJ1987" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test20.BOJ1987" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test18.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -297,12 +290,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ4949" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test18.BOJ4949" />
+    <configuration name="BOJ2632" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test20.BOJ2632" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test18.*" />
+          <option name="PATTERN" value="com.fiddich.test.keundol.test20.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ5557" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test20.BOJ5557" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.test.keundol.test20.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -312,11 +318,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ1480" />
-        <item itemvalue="Application.BOJ4949" />
-        <item itemvalue="Application.BOJ14627" />
-        <item itemvalue="Application.BOJ1700" />
-        <item itemvalue="Application.BOJ13913" />
+        <item itemvalue="Application.BOJ5557" />
+        <item itemvalue="Application.BOJ2632" />
+        <item itemvalue="Application.BOJ13244" />
+        <item itemvalue="Application.BOJ1987" />
+        <item itemvalue="Application.BOJ1068" />
       </list>
     </recent_temporary>
   </component>
@@ -349,7 +355,7 @@
       <workItem from="1771500575698" duration="21090000" />
       <workItem from="1771598772842" duration="13605000" />
       <workItem from="1771831407693" duration="6000" />
-      <workItem from="1771831458208" duration="33295000" />
+      <workItem from="1771831458208" duration="60460000" />
     </task>
     <servers />
   </component>
