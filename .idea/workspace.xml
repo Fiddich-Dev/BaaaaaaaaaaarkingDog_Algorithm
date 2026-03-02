@@ -5,28 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ16434.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test21/BOJ12100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test21/BOJ15683.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test21/BOJ1781.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test21/BOJ2636.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test21/BOJ2852.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test22/BOJ1269.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test22/BOJ14890.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test22/BOJ17471.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test22/BOJ2240.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test22/BOJ3273.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test23/BOJ11723.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test23/BOJ12851.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test23/BOJ1436.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test23/BOJ15353.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test23/BOJ2170.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test24/BOJ1344.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test24/BOJ14502.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test24/BOJ3190.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test24/BOJ12852.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test24/BOJ2828.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test25/BOJ2234.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test25/BOJ9012.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ13244.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/test/keundol/test20/BOJ13244.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -38,41 +21,9 @@
       <ProjectState />
     </projectState>
   </component>
-  <component name="ExternalProjectsManager">
-    <system id="GRADLE">
-      <state>
-        <task path="$PROJECT_DIR$">
-          <activation />
-        </task>
-        <projects_view>
-          <tree_state>
-            <expand>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Coding-Test" type="f1a62948:ProjectNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Coding-Test" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-              </path>
-              <path>
-                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
-                <item name="Coding-Test" type="f1a62948:ProjectNode" />
-                <item name="Tasks" type="e4a08cd1:TasksNode" />
-                <item name="build" type="c8890929:TasksNode$1" />
-              </path>
-            </expand>
-            <select />
-          </tree_state>
-        </projects_view>
-      </state>
-    </system>
-  </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="package-info" />
         <option value="Class" />
       </list>
     </option>
@@ -84,10 +35,6 @@
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
 }</component>
-  <component name="McpProjectServerCommands">
-    <commands />
-    <urls />
-  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 7
 }</component>
@@ -97,50 +44,6 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
-    "Application.BOJ1068.executor": "Run",
-    "Application.BOJ11053.executor": "Run",
-    "Application.BOJ11723.executor": "Run",
-    "Application.BOJ12100.executor": "Run",
-    "Application.BOJ1269.executor": "Run",
-    "Application.BOJ1285.executor": "Run",
-    "Application.BOJ12851.executor": "Run",
-    "Application.BOJ13244.executor": "Run",
-    "Application.BOJ1344.executor": "Run",
-    "Application.BOJ13913.executor": "Run",
-    "Application.BOJ1436.executor": "Run",
-    "Application.BOJ1450.executor": "Run",
-    "Application.BOJ14502.executor": "Run",
-    "Application.BOJ14627.executor": "Run",
-    "Application.BOJ1480.executor": "Run",
-    "Application.BOJ14889.executor": "Run",
-    "Application.BOJ14890.executor": "Run",
-    "Application.BOJ15353.executor": "Run",
-    "Application.BOJ15662.executor": "Run",
-    "Application.BOJ15683.executor": "Run",
-    "Application.BOJ15684.executor": "Run",
-    "Application.BOJ16434.executor": "Run",
-    "Application.BOJ1644.executor": "Run",
-    "Application.BOJ1700.executor": "Run",
-    "Application.BOJ17136.executor": "Run",
-    "Application.BOJ17298.executor": "Run",
-    "Application.BOJ17471.executor": "Run",
-    "Application.BOJ1781.executor": "Run",
-    "Application.BOJ1987.executor": "Run",
-    "Application.BOJ2170.executor": "Run",
-    "Application.BOJ2240.executor": "Run",
-    "Application.BOJ2632.executor": "Run",
-    "Application.BOJ2636.executor": "Run",
-    "Application.BOJ2852.executor": "Run",
-    "Application.BOJ2870.executor": "Run",
-    "Application.BOJ3190.executor": "Run",
-    "Application.BOJ3273.executor": "Run",
-    "Application.BOJ4949.executor": "Run",
-    "Application.BOJ5430.executor": "Run",
-    "Application.BOJ5557.executor": "Run",
-    "Application.BOJ7795.executor": "Run",
-    "Application.Cast.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Gradle.BaaaaaaaaaaarkingDog_Algorithm [clean].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.Test.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1012.main()].executor": "Run",
@@ -222,6 +125,10 @@
     "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ1912.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ2776.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ3197.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test24.BOJ12852.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test24.BOJ2828.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test25.BOJ2234.main()].executor": "Run",
+    "Gradle.Coding-Test [:com.fiddich.test.keundol.test25.BOJ9012.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ1103.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ19942.main()].executor": "Run",
     "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2109.main()].executor": "Run",
@@ -268,12 +175,8 @@
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
     "git-widget-placeholder": "main",
-    "ignore.virus.scanning.warn.message": "true",
     "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/kosa/Documents/GitHub/BaaaaaaaaaaarkingDog_Algorithm",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -283,26 +186,13 @@
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.15",
     "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.fonts.default",
+    "settings.editor.selected.configurable": "editor.preferences.completion",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.BOJ1344">
-    <configuration name="BOJ12851" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test23.BOJ12851" />
-      <module name="Coding-Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ1344" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test24.BOJ1344" />
+  <component name="RunManager" selected="Application.BOJ2234">
+    <configuration name="BOJ12852" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test24.BOJ12852" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
@@ -314,36 +204,9 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ14502" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test24.BOJ14502" />
-      <module name="Coding-Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test24.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ15353" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test23.BOJ15353" />
-      <module name="Coding-Test.main" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.fiddich.test.keundol.test23.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="BOJ15662" type="Application" factoryName="Application" nameIsGenerated="true">
-      <option name="ALTERNATIVE_JRE_PATH" value="temurin-17" />
-      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+    <configuration name="BOJ15662" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test15.BOJ15662" />
+      <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.fiddich.test.keundol.test15.*" />
@@ -354,8 +217,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ3190" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test24.BOJ3190" />
+    <configuration name="BOJ2234" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test25.BOJ2234" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.test.keundol.test25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BOJ2828" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test24.BOJ2828" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
@@ -367,21 +243,34 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="BOJ9012" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.test.keundol.test25.BOJ9012" />
+      <module name="Coding-Test.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.fiddich.test.keundol.test25.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.BOJ1344" />
-        <item itemvalue="Application.BOJ3190" />
-        <item itemvalue="Application.BOJ14502" />
-        <item itemvalue="Application.BOJ12851" />
-        <item itemvalue="Application.BOJ15353" />
+        <item itemvalue="Application.BOJ2234" />
+        <item itemvalue="Application.BOJ9012" />
+        <item itemvalue="Application.BOJ12852" />
+        <item itemvalue="Application.BOJ2828" />
+        <item itemvalue="Application.BOJ15662" />
       </list>
     </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-30f59d01ecdd-2fc7cc6b9a17-intellij.indexing.shared.core-IU-253.31033.145" />
-        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.31033.145" />
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.26927.53" />
+        <option value="bundled-js-predefined-d6986cc7102b-09060db00ec0-JavaScript-IU-251.26927.53" />
       </set>
     </attachedChunks>
   </component>
@@ -405,16 +294,12 @@
       <workItem from="1771333982646" duration="34551000" />
       <workItem from="1771500575698" duration="21090000" />
       <workItem from="1771598772842" duration="13605000" />
-      <workItem from="1771831407693" duration="6000" />
-      <workItem from="1771831458208" duration="60460000" />
+      <workItem from="1771770664907" duration="4102000" />
+      <workItem from="1772416122708" duration="12681000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
-  </component>
-  <component name="XSLT-Support.FileAssociations.UIState">
-    <expand />
-    <select />
   </component>
 </project>
