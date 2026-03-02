@@ -24,14 +24,21 @@ public class BOJ13244 {
                 adj[to].add(from);
             }
 
+            // 트리의 조건 : 노드수 - 1 = 간선 수,
+            if(v - 1 == e && bfs(0) == v) {
+                System.out.println("tree");
+            }
+            else {
+                System.out.println("graph");
+            }
         }
     }
 
-    static boolean isValid1() {
+    static int bfs(int start) {
         int[] visited = new int[v];
-        visited[0] = 1;
+        visited[start] = 1;
         Queue<Integer> q = new LinkedList<>();
-        q.add(0);
+        q.add(start);
 
         int cnt = 0;
         while(!q.isEmpty()) {
@@ -44,10 +51,7 @@ public class BOJ13244 {
                 }
             }
         }
-
-        if(cnt == v) {
-            return true;
-        }
-        return false;
+        return cnt;
     }
+
 }
