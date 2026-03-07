@@ -13,19 +13,15 @@ public class BOJ3015 {
         }
 
         long ret = 0;
-
         Stack<Pair> stk = new Stack<>();
 
         for(int i = 0; i < n; i++) {
-            int num = a[i];
-            Pair cur = new Pair(num, 1);
 
-            // 다음 사람이 키가 이전 사람보다 크거나 같을때
-            while(!stk.isEmpty() && stk.peek().num <= num) {
+            Pair cur = new Pair(i, 1);
+            while(!stk.isEmpty() && a[stk.peek().idx] <= a[i]) {
                 Pair p = stk.pop();
                 ret += p.cnt;
-                // 만약 키가 같으면
-                if(p.num == num) {
+                if(a[p.idx] == a[i]) {
                     cur.cnt += p.cnt;
                 }
             }
@@ -33,19 +29,20 @@ public class BOJ3015 {
             if(!stk.isEmpty()) {
                 ret++;
             }
-            stk.push(cur);
+            stk.add(cur);
         }
 
         System.out.println(ret);
+
     }
 
     static class Pair {
-        int num;
+        int idx;
         int cnt;
 
-        public Pair(int num, int cnt) {
-            this.num = num;
+        public Pair(int idx, int cnt) {
+            this.idx = idx;
             this.cnt = cnt;
         }
     }
-}
+} // 더 키큰 사람이 나오면 확인필요 없음

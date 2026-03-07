@@ -12,15 +12,24 @@ public class BOJ2670 {
             a[i] = sc.nextDouble();
         }
 
-        double ret = 0;
+        double[] result = new double[n];
+        double temp = 1;
         for(int i = 0; i < n; i++) {
-            double cur = 1;
-            for(int j = i; j < n; j++) {
-                cur *= a[j];
-                ret = Math.max(ret, cur);
+            temp *= a[i];
+            if(temp >= a[i]) {
+                result[i] = temp;
+            }
+            else {
+                result[i] = a[i];
+                temp = a[i];
             }
         }
 
-        System.out.println(String.format("%.3f", ret));
+        double ret = 0;
+        for(int i = 0; i < n; i++) {
+            ret = Math.max(ret, result[i]);
+        }
+
+        System.out.printf("%.3f", ret);
     }
 }

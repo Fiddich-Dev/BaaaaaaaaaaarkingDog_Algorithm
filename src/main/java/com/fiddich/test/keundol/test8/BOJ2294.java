@@ -4,41 +4,47 @@ import java.util.*;
 
 public class BOJ2294 {
 
-    static int n, k;
-    static int[] a;
-    static int[] dp;
-
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-        n = sc.nextInt();
-        k = sc.nextInt();
-        a = new int[n];
-        dp = new int[100004];
-
-        Arrays.fill(dp, 987654321);
-
+        int n = sc.nextInt();
+        int k = sc.nextInt();
+        int[] a = new int[n];
         for(int i = 0; i < n; i++) {
             a[i] = sc.nextInt();
-            dp[a[i]] = 1;
         }
 
 
+        Arrays.sort(a);
 
-        for(int i = 0; i < n; i++) {
-            int value = a[i];
-            for(int j = value; j <= k; j++) {
-                dp[j] = Math.min(dp[j], dp[j-value] + 1);
+        int[][] dp = new int[n+1][k+1];
+        for(int i = 0; i <= n; i++) {
+            Arrays.fill(dp[i], 987654321);
+            dp[i][0] = 0;
+        }
+
+
+        for(int i = 1; i <= n; i++) {
+            for(int j = 0; j <= k; j++) {
+                // 이번꺼 안쓸때
+                dp[i][j] = dp[i-1][j];
+
+                // 이번꺼 쓸때
+                if(j - a[i-1] >= 0) {
+                    dp[i][j] = Math.min(dp[i][j], dp[i][j - a[i - 1]] + 1);
+                }
             }
         }
 
-        if(dp[k] == 987654321) {
+//        for(int i = 0; i <= k; i++) {
+//            System.out.print(dp[n][i] + " ");
+//        }
+        if(dp[n][k] == 987654321) {
             System.out.println(-1);
             return;
         }
-        System.out.println(dp[k]);
+        System.out.println(dp[n][k]);
     }
 }
 
-// dp[n] = n원을 만들수 있는 최소 동전 수
-// dp[n] = min(dp[n-1], dp[n-3], dp[n-12]) + 1
+
 

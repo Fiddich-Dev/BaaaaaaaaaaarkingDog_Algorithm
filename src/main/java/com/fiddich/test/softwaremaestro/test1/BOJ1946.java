@@ -1,4 +1,4 @@
-package com.fiddich.test.one;
+package com.fiddich.test.softwaremaestro.test1;
 
 import java.util.*;
 import java.io.*;

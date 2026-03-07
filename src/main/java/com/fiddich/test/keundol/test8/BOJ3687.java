@@ -6,8 +6,8 @@ public class BOJ3687 {
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
-
-        long[] dp = new long[104];
+        int t = sc.nextInt();
+        long[] dp = new long[101];
         Arrays.fill(dp, Long.MAX_VALUE);
 
         dp[2] = 1;
@@ -27,37 +27,25 @@ public class BOJ3687 {
             }
         }
 
-
-        int t = sc.nextInt();
         while(t-- != 0) {
             int n = sc.nextInt();
-            System.out.println(dp[n] + " " + solveMin(n));
+            System.out.println(dp[n] + " " + max(n));
         }
-
     }
 
-    static String solveMin(int n) {
-        boolean isOdd = false;
-        if(n % 2 != 0) {
-            isOdd = true;
-        }
-
-        String ret = "";
-        if(isOdd) {
-            ret += "7";
+    static String max(int n) {
+        StringBuilder sb = new StringBuilder();
+        if(n % 2 == 1) {
+            sb.append(7);
             n -= 3;
         }
 
-        for(int i = 0; i < n; i += 2) {
-            ret += "1";
+        for(int i = 0; i < n/2; i++) {
+            sb.append(1);
         }
 
-        return ret;
+        return sb.toString();
     }
-
 }
 
-// 큰수는 2, 3으로 계속 나누면 됨
 
-
-// 2, 3, 4, 5, 6, 7로 n 만들기
