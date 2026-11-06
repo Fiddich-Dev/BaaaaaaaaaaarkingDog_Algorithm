@@ -5,15 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="245d3943-c1bd-405b-85a4-08a4ef4b2887" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/mst/BOJ1197.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/mst/BOJ1197_2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/simulation/BOJ17472.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/unionfind/BOJ1717.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/unionfind/BOJ7511.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dijkstra/BOJ11779.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/dijkstra/BOJ1753.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/Rectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/Rectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/fiddich/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/fiddich/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/asd.yml" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +57,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="jar://$USER_HOME$/Library/Java/JavaVirtualMachines/temurin-17.0.18/Contents/Home/lib/src.zip!/java.base/java/lang/Object.java" root0="SKIP_INSPECTION" />
+  </component>
   <component name="KubernetesApiPersistence">{}</component>
   <component name="KubernetesApiProvider">{
   &quot;isMigrated&quot;: true
@@ -78,212 +75,214 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.BOJ10942.executor": "Run",
-    "Application.BOJ11054.executor": "Run",
-    "Application.BOJ11286.executor": "Run",
-    "Application.BOJ11779.executor": "Run",
-    "Application.BOJ1189.executor": "Run",
-    "Application.BOJ1197.executor": "Run",
-    "Application.BOJ1197_2.executor": "Run",
-    "Application.BOJ13144.executor": "Run",
-    "Application.BOJ1389.executor": "Run",
-    "Application.BOJ14003.executor": "Run",
-    "Application.BOJ14938.executor": "Run",
-    "Application.BOJ14940.executor": "Run",
-    "Application.BOJ1504.executor": "Run",
-    "Application.BOJ1509.executor": "Run",
-    "Application.BOJ16637.executor": "Run",
-    "Application.BOJ1676.executor": "Run",
-    "Application.BOJ16928.executor": "Run",
-    "Application.BOJ17142.executor": "Run",
-    "Application.BOJ1717.executor": "Run",
-    "Application.BOJ17219.executor": "Run",
-    "Application.BOJ17472.executor": "Run",
-    "Application.BOJ17626.executor": "Run",
-    "Application.BOJ1764.executor": "Run",
-    "Application.BOJ1916.executor": "Run",
-    "Application.BOJ1927.executor": "Run",
-    "Application.BOJ1992.executor": "Run",
-    "Application.BOJ2098.executor": "Run",
-    "Application.BOJ2110.executor": "Run",
-    "Application.BOJ21736.executor": "Run",
-    "Application.BOJ2206.executor": "Run",
-    "Application.BOJ2294.executor": "Run",
-    "Application.BOJ2342.executor": "Run",
-    "Application.BOJ24416.executor": "Run",
-    "Application.BOJ2670.executor": "Run",
-    "Application.BOJ3015.executor": "Run",
-    "Application.BOJ30804.executor": "Run",
-    "Application.BOJ3687.executor": "Run",
-    "Application.BOJ4659.executor": "Run",
-    "Application.BOJ4781.executor": "Run",
-    "Application.BOJ5525.executor": "Run",
-    "Application.BOJ6236.executor": "Run",
-    "Application.BOJ7511.executor": "Run",
-    "Application.BOJ7662.executor": "Run",
-    "Application.BOJ9019.executor": "Run",
-    "Application.BOJ9184.executor": "Run",
-    "Application.Test.executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.Test.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1012.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ14442.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1600.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1697.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ1926.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ2178.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ4179.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.bfs.BOJ7576.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.dp.BOJ1149.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.dp.BOJ11659.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.dp.BOJ11726.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.dp.BOJ1463.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.dp.BOJ2579.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.dp.BOJ9095.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.graph.BOJ11403.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.graph.BOJ11724.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.graph.BOJ1260.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.graph.BOJ2660.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ1026.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ11047.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ11399.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ1931.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.greedy.BOJ2217.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.recursion.BOJ2448.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ15683.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17825.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ17837.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19236.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19237.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ19238.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20056.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.simulation.BOJ20061.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ10814.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ10825.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ11652.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ11656.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ1181.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ1431.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ2910.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ5648.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.BOJ7795.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.sort.Sort.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.BOJ1014.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ1012.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ12865.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ15686.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ1931.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ2309.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ1072.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ15926.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ17143.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ2910.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ4811.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ1062.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ14391.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ14863.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ17822.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ3474.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ12869.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ1513.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ17144.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ2293.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ9935.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ10709.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ1202.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ14620.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ17837.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ2343.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1094.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1325.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1561.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ15685.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ17071.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ14497.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ15662.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ1912.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ2776.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ3197.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test24.BOJ12852.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test24.BOJ2828.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test25.BOJ2234.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test25.BOJ9012.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ1103.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ19942.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2109.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2468.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2589.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ10808.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ10988.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ14888.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ1940.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ4179.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ1159.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ11655.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ2559.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ2979.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ9996.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ1213.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ1620.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ3986.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ4375.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ9375.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ14405.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ17825.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ1911.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ3015.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ14469.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ1509.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ16234.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ2294.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ3687.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ1535.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ17406.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ2565.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ9934.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ1629.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ17070.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2178.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2583.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2792.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ10836.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ13334.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ17266.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ17404.main()].executor": "Run",
-    "Gradle.Coding-Test [:com.fiddich.test.one.BOJ1946.main()].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.MCP Project settings loaded": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1": "true",
-    "git-widget-placeholder": "main",
-    "junie.onboarding.icon.badge.shown": "true",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "/Volumes/WD_BLACK SN850X 2TB/hwanginsung_ex/Documents/GitHub/BaaaaaaaaaaarkingDog_Algorithm/Coding-Test/src/main/java/com/fiddich/Main.java",
-    "project.structure.last.edited": "Modules",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "editor.preferences.completion",
-    "to.speed.mode.migration.done": "true",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.BOJ10942.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ11054.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ11286.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ11779.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1189.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1197.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1197_2.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ13144.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1389.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ14003.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ14938.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ14940.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1504.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1509.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ16637.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1676.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ16928.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ17142.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1717.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ17219.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ17472.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1753.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ17626.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1763.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1764.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1916.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1927.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ1992.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2098.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2110.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ21736.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2206.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2294.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2342.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ24416.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ2670.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ3015.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ30804.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ3687.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ4659.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ4781.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ5525.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ6236.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ7511.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ7662.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ9019.executor&quot;: &quot;Run&quot;,
+    &quot;Application.BOJ9184.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.Test.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.backtracking.BOJ18809.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ1012.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ14442.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ1600.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ1697.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ1926.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ2178.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ4179.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.bfs.BOJ7576.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ1149.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ11659.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ11726.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ1463.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ2579.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.dp.BOJ9095.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ11403.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ11724.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ1260.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.graph.BOJ2660.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.greedy.BOJ1026.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.greedy.BOJ11047.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.greedy.BOJ11399.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.greedy.BOJ1931.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.greedy.BOJ2217.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.recursion.BOJ2448.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ15683.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ17822.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ17825.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ17837.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ19236.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ19237.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ19238.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ20056.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.simulation.BOJ20061.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ10814.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ10825.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ11652.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ11656.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ1181.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ1431.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ2910.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ5648.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.BOJ7795.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.sort.Sort.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.BOJ1014.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ1012.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ12865.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ15686.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ1931.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.one.BOJ2309.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ1072.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ15926.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ17143.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ2910.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test10.BOJ4811.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ1062.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ14391.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ14863.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ17822.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test11.BOJ3474.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ12869.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ1513.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ17144.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ2293.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test12.BOJ9935.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ10709.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ1202.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ14620.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ17837.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test13.BOJ2343.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1094.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1325.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ1561.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ15685.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test14.BOJ17071.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ14497.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ15662.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ1912.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ2776.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test15.BOJ3197.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test24.BOJ12852.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test24.BOJ2828.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test25.BOJ2234.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test25.BOJ9012.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ1103.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ19942.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2109.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2468.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test3.BOJ2589.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ10808.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ10988.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ14888.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ1940.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test4.BOJ4179.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ1159.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ11655.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ2559.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ2979.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test5.BOJ9996.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ1213.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ1620.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ3986.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ4375.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test6.BOJ9375.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ14405.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ17825.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ1911.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test7.BOJ3015.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ14469.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ1509.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ16234.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ2294.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test8.BOJ3687.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ1535.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ17406.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ2565.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.test9.BOJ9934.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ1629.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ17070.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2178.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2583.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.keundol.two.BOJ2792.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.one.BOJ10836.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.one.BOJ13334.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.one.BOJ17266.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.one.BOJ17404.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Coding-Test [:com.fiddich.test.one.BOJ1946.main()].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.MCP Project settings loaded&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
+    &quot;com.intellij.ml.llm.matterhorn.ej.ui.settings.DefaultModelSelectionForGA.v1&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;junie.onboarding.icon.badge.shown&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;/Volumes/WD_BLACK SN850X 2TB/hwanginsung_ex/Documents/GitHub/BaaaaaaaaaaarkingDog_Algorithm/Coding-Test/src/main/java/com/fiddich/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;editor.preferences.completion&quot;,
+    &quot;to.speed.mode.migration.done&quot;: &quot;true&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="BOJ1197" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.mst.BOJ1197" />
+}</component>
+  <component name="RunManager" selected="Application.BOJ11779">
+    <configuration name="BOJ11779" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.dijkstra.BOJ11779" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.mst.*" />
+          <option name="PATTERN" value="com.fiddich.dijkstra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -304,12 +303,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ1717" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.unionfind.BOJ1717" />
+    <configuration name="BOJ1753" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.dijkstra.BOJ1753" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.unionfind.*" />
+          <option name="PATTERN" value="com.fiddich.dijkstra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -317,12 +316,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="BOJ7511" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.fiddich.unionfind.BOJ7511" />
+    <configuration name="BOJ1763" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.fiddich.dijkstra.BOJ1763" />
       <module name="Coding-Test.main" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.fiddich.unionfind.*" />
+          <option name="PATTERN" value="com.fiddich.dijkstra.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -345,11 +344,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.BOJ11779" />
+        <item itemvalue="Application.BOJ1753" />
+        <item itemvalue="Application.BOJ1763" />
         <item itemvalue="Application.Test" />
         <item itemvalue="Application.BOJ1197_2" />
-        <item itemvalue="Application.BOJ1197" />
-        <item itemvalue="Application.BOJ7511" />
-        <item itemvalue="Application.BOJ1717" />
       </list>
     </recent_temporary>
   </component>
@@ -384,7 +383,8 @@
       <workItem from="1771770664907" duration="4102000" />
       <workItem from="1772416122708" duration="12681000" />
       <workItem from="1773359834985" duration="27404000" />
-      <workItem from="1774234211807" duration="22338000" />
+      <workItem from="1774234211807" duration="42417000" />
+      <workItem from="1775465170135" duration="2683000" />
     </task>
     <servers />
   </component>
